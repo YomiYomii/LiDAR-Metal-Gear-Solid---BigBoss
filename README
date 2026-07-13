@@ -1,0 +1,4 @@
+EL codigo .ino es el que se sube al arduino. Los otros van en el siguiente orden:
+- Registrar
+- Ver_escaneo
+- funsionar_mapa
